@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lakshyapachkhede
-- 👀 I’m interested in c\c++,python,everythin.
-- 🌱 I’m currently learning python,c++
+- 👀 I’m interested in c\c++,python, web-development.
+- 🌱 I’m currently learning python,c++, web-dev.
 - 💞️ I’m looking to collaborate on nothing.
 - 📫 How to reach me pachkhedelakshya@gmail.com
 
