@@ -42,3 +42,5 @@
 <div align="center">
   <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Keep Coding!" width="300">
 </div>
+
+<div align=center>Keep coding</div>
