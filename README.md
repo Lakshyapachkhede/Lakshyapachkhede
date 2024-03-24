@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lakshyapachkhede
-- 👀 I’m interested in c\c++,python, web-development.
-- 🌱 I’m currently learning python,c++, web-dev.
-- 💞️ I’m looking to collaborate on nothing.
+- 👀 I’m interested in python, web-development, AI-ML.
+- 🌱 I’m currently learning python, DSA, web-dev.
+- 💞️ I’m looking to join a team of passionate people.
 - 📫 How to reach me pachkhedelakshya@gmail.com
 
 <!---
