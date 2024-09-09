@@ -7,9 +7,9 @@
 
 ### About Me
 
-🚀 I'm passionate about Python, web development, and diving into the world of AI/ML.
+🚀 I'm passionate about Python, web development, and Andriod development.
 
-🌱 Currently, I'm on an adventurous journey learning Python, mastering Data Structures and Algorithms, and honing my skills in web development.
+🌱 Currently, I'm on an adventurous journey learning Python, mastering Data Structures and Algorithms, and honing my skills in web development/Andriod Development.
 
 👯 I'm excited to collaborate with like-minded, passionate individuals on innovative projects that push boundaries and make a difference.
 
@@ -25,7 +25,7 @@
 
 ### Projects & Contributions
 
-🛠️ Explore my diverse range of projects, from Python scripts to web development adventures and potential AI/ML escapades. There's always something exciting in the works!
+🛠️ Explore my diverse range of projects, from Python scripts to web development adventures and Android Development. There's always something exciting in the works!
 
 👀 Check out my repositories and feel free to contribute or collaborate. Together, we can build something extraordinary!
 
