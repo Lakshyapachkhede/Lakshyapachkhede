@@ -201,6 +201,10 @@ nav ul li a:hover::after{
     border-radius: 10px;
     position: relative;
     overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 400px;
 }
 
 .work img{
@@ -208,6 +212,7 @@ nav ul li a:hover::after{
     border-radius: 10px;
     display: block;
     transition: transform 0.5s;
+    max-height: 400px;
 }
 .layer{
     width: 100%;
@@ -231,7 +236,11 @@ nav ul li a:hover::after{
     font-weight: 500;
     margin-bottom: 20px;
 }
-.layer a{
+.layer div{
+    display: flex;
+    gap: 10px;
+}
+.layer a, .layer-link{
     margin-top: 20px;
     color: #ff004f;
     text-decoration: none;
